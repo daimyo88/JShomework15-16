@@ -1,0 +1,33 @@
+body {
+    font-family: Tahoma, Arial;
+}
+
+input {
+  width: 40%;
+}
+
+a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.wrapper {
+  margin: 10px;
+  padding: 10px;
+}
+.main-container {
+  height: calc(100vh - 100px);
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #eee;
+}
+.main-container img {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+  vertical-align: middle;
+}
+.logo {
+  margin-left: 100px;
+}
